@@ -1,0 +1,2 @@
+name = 'mitsuki'
+print(name)
